@@ -1,3 +1,2 @@
 .venv
-data
-MNIST_data
+*data*
